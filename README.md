@@ -1,1 +1,1 @@
-# Governanca_Boas_Praticas_TI
+# Arquivos de estudo da matéria Governanca e Boas Práticas em TI
